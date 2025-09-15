@@ -16,6 +16,12 @@
 
 ###
 
+## 📫 Como me encontrar:
+- ✉️ [Email](isaacjsantos07@gmail.com) 
+- 💼 [LinkedIn](https://linkedin.com/in/isaac-santos)
+
+###
+
 <h2 align="left">Languages I’m learning/using:</h2>
 
 ###
