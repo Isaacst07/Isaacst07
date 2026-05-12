@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🎓 Student of Systems Analysis and Development at IFPI (2nd semester).<br>
+<p align="left">🎓 Student of Systems Analysis and Development at IFPI (3nd semester).<br>
 💻 Interested in programming, web development, and databases.<br>
 🚀 Constantly learning and seeking to grow through practical projects and new challenges.</p>
 
